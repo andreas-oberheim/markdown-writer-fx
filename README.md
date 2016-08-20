@@ -1,8 +1,7 @@
 ![Markdown Writer FX](images/logo.png)
 
-Markdown Writer FX
-==================
-
+Universal Markup Editor
+=======================
 An open source [Markdown] editor written in JavaFX 8.
 
 ![Markdown Writer FX Screenshot](images/screenshot.png)
